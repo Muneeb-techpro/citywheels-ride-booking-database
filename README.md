@@ -113,7 +113,7 @@ It showcases database setup, query execution, and sample outputs.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/citywheels-ride-booking-database.git
+git clone https://github.com/Muneeb-techpro/citywheels-ride-booking-database.git
 
 ```
 2. Navigate to the database folder:
